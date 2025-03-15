@@ -11,7 +11,7 @@ return [
 
     // Login & Register
     'sign_up' => 'Sign up',
-    'log_in' => 'Log in',
+    'log_in' => '✨Log in✨',
     'log_in_with' => 'Login with :socialDriver',
     'sign_up_with' => 'Sign up with :socialDriver',
     'logout' => 'Logout',
@@ -22,8 +22,8 @@ return [
     'password' => 'Password',
     'password_confirm' => 'Confirm Password',
     'password_hint' => 'Must be at least 8 characters',
-    'forgot_password' => 'Forgot Password?',
-    'remember_me' => 'Remember Me',
+    'forgot_password' => '❓Forgot Password?',
+    'remember_me' => '🏷️Remember Me',
     'ldap_email_hint' => 'Please enter an email to use for this account.',
     'create_account' => 'Create Account',
     'already_have_account' => 'Already have an account?',
